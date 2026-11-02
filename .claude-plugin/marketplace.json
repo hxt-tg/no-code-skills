@@ -1,0 +1,14 @@
+{
+  "name": "no-code-skills-marketplace",
+  "owner": {
+    "name": "Hu Xintao"
+  },
+  "description": "Non-coding skills for everyday thinking and reflection.",
+  "plugins": [
+    {
+      "name": "no-code-skills",
+      "source": "./",
+      "description": "Non-coding skills for everyday thinking and reflection."
+    }
+  ]
+}
